@@ -264,6 +264,13 @@ a:hover {
   display: block;
 }
 
+.icon_extra{
+  width: 48px;
+  height: 48px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+
 /*------/ Owl Carousel /------*/
 
 .owl-theme .owl-dots {
@@ -698,6 +705,11 @@ a:hover {
 .skill-mf .progress .progress-bar {
   height: .7rem;
   background-color: #0078ff;
+}
+
+.about-info{
+  margin-left: 23px;
+  margin-top: 60px;
 }
 
 /*======================================
